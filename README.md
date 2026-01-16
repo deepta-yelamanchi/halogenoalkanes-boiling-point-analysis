@@ -61,7 +61,7 @@ This model demonstrates how **statistical methods can be applied to physical che
 ---
 
 ## Repository Structure
-- `paper/` – Full research paper (PDF)
+- `paper/` – [Full research paper (PDF)](https://github.com/deepta-yelamanchi/halogenoalkanes-boiling-point-analysis/blob/94b42f3c1782e327dbac04d80de239ec762bb7ad/Halogenoalkane_Boiling_Point_Modeling.pdf)
 
 ---
 
